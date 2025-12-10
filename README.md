@@ -107,3 +107,31 @@ AddMovement() - добавляет новую операцию, проверяя
 ### Тест загрузки данных из XLS
 
 <img width="451" height="231" alt="image" src="https://github.com/user-attachments/assets/edd5a863-8c90-420f-b5c5-e993b7727247" />
+
+### Тест просмтора данных из файла
+
+<img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/94c5b865-6186-4cdc-86c1-256c81695f8d" />
+
+### Удаление записи
+
+<img width="345" height="251" alt="image" src="https://github.com/user-attachments/assets/fc343dee-2976-43e9-87cf-cb88487145dc" />
+
+#### было 
+
+<img width="500" height="278" alt="image" src="https://github.com/user-attachments/assets/22cd3c00-95b7-47eb-80fc-31a3be4a0aa6" />
+
+#### стало
+
+<img width="619" height="271" alt="image" src="https://github.com/user-attachments/assets/adcfe3bc-e65a-48f1-a8f5-5f932739dff2" />
+
+### Добавление 
+
+<img width="430" height="348" alt="image" src="https://github.com/user-attachments/assets/4fb60541-f287-44e7-9002-8d1d0e218b60" />
+
+#### было
+
+<img width="539" height="487" alt="image" src="https://github.com/user-attachments/assets/6fdbb201-481f-4206-8cc0-bc5e2da7f615" />
+
+#### стало
+
+<img width="668" height="325" alt="image" src="https://github.com/user-attachments/assets/0d2e32e6-4c5f-45e9-9d54-4610a2d2f6f5" />
