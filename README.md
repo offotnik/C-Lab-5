@@ -135,3 +135,13 @@ AddMovement() - добавляет новую операцию, проверяя
 #### стало
 
 <img width="668" height="325" alt="image" src="https://github.com/user-attachments/assets/0d2e32e6-4c5f-45e9-9d54-4610a2d2f6f5" />
+
+### Запросы
+
+<img width="688" height="484" alt="image" src="https://github.com/user-attachments/assets/639228b2-0a3e-4add-88e5-08d166114202" />
+
+<img width="346" height="357" alt="image" src="https://github.com/user-attachments/assets/cd185725-8a90-4262-b63e-515bd8f888b2" />
+
+<img width="686" height="476" alt="image" src="https://github.com/user-attachments/assets/e4b3eca1-27c0-4c59-80e6-95f55e5a5cb6" />
+
+<img width="349" height="401" alt="image" src="https://github.com/user-attachments/assets/2590aea7-94cf-47f8-950a-31f4755a57e6" />
